@@ -6,3 +6,7 @@
 - The CQRS pattern
 - The Event Sourcing pattern
 - The Shared Database anti-pattern
+
+
+## Shared Database Pattern (Anti-pattern)
+
